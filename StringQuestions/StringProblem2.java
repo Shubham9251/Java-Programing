@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
 
-//  Substring Comparisons.........
+//  Substring Comparisons and print smallest and largest substring .........
 
 public class StringProblem2 {
      
@@ -30,11 +30,13 @@ public class StringProblem2 {
 
     public static void main(String[] args) {
         
-        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter String : ");
         String S = sc.next();
+        System.out.println("Enter range of substring: ");
         int n = sc.nextInt();
         
         System.out.println(getSmallestAndLargest(S, n));
+        sc.close(); 
     }
 
 
