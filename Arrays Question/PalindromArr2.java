@@ -11,6 +11,7 @@ public class PalindromArr2 {
         
 
         int[] arr = new int[n];
+        System.out.println("Enter the eement of arr: ");
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
