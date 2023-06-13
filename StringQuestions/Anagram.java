@@ -1,4 +1,4 @@
-package StringsConcept;
+package StringQuestion;
 
 import java.util.Arrays;
 import java.util.Scanner;
