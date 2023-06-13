@@ -1,4 +1,4 @@
-package StringsConcept;
+package StringQuestion;
 import java.util.*;
 
 /*The 2 main differences are that: equals will take any Object as a parameter,
