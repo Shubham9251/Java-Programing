@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysQuestion;
 
 public class missingNumber {
     public static void main(String[] args) {
