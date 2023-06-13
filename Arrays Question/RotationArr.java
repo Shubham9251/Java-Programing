@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysQuestion;
 import java.util.Scanner;
 // only for 4by4 matrix.......
 public class RotationArr {
