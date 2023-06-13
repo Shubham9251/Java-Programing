@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysQuestion;
 import java.util.Scanner;
 
 // brut forse approch......
