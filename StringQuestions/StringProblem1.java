@@ -11,7 +11,7 @@ import java.util.*;
               1.  (a < b) -> return -1.
               1.  (a > b) -> return 1.
 */
-//  Problem on Substring Comparisons .........
+//  Problem of Heakerrenk on string .........
 public class StringProblem1 {
     public static void main(String[] args) {
        
