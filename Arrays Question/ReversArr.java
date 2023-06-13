@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysQuestion;
 
 public class ReversArr {
     public static void main(String[] args) {
