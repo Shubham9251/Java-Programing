@@ -11,12 +11,13 @@ import java.util.*;
               1.  (a < b) -> return -1.
               1.  (a > b) -> return 1.
 */
-
+//  Problem on Substring Comparisons .........
 public class StringProblem1 {
     public static void main(String[] args) {
        
         String A, B;
         try(Scanner sc=new Scanner(System.in)){
+           System.out.println("Enter two Strings: ");
             A = sc.next();
             B = sc.next();
         }
