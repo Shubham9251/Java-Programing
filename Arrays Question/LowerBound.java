@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysQuestion;
 
 // first occurence in array.........
 public class LowerBound {
