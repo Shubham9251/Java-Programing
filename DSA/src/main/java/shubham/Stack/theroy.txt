@@ -1,0 +1,21 @@
+What is Stack?
+
+--> A stack is a linear list data structure having a sequential collection of elements in
+    which elements are added on the top of the stack like piles of books, etc.
+    The new item can be added, or existing item can be removed only from the top of the stack.
+    Stack is considered as a dynamic data structure because the size of the stack can be changed at the run time.
+    The two operations can be performed on the stack, i.e., push and pop.
+    Here, push operation means that a new item is inserted into the stack,
+    whereas the pop operation means that the existing item is removed from the stack.
+    It strictly follows the LIFO (Last In First Out) principle in which the recently added item will be removed first,
+    and the item which is added first will be removed last.
+
+
+Operations in Stack
+    There are only few counted operations can be performed in Stack Data Structure in Java as mentioned below:
+
+    1.push() : Method to push element in the Stack
+    2.pop() : Method to pop element from the Stack
+    3.top() : Returns the Top element from the Stack
+    4.isEmpty() : The isEmpty operation can used to check whether the stack is empty or not.
+    5.isFull() : The isFull Operation can be used to check whether the stack is full or not.
